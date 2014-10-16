@@ -14,7 +14,7 @@
 
 <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
 
-<title>1stWebDesigner PHP Template</title>
+<title>Apche Stratos 4.1.0 M2 Developer Preview</title>
 
 </head>
 
